@@ -16,6 +16,18 @@ git merge feature/login
 (since, feature directory contains login)
 ```
 Write the command for merging someone's code?
+```
+First, checkout the branch you want to merge into using "git checkout".
+Then, use 
+git merge <branch to merge from>
+
+example, we want to merge " login" feature in main branch. 
+we will first checkout in main
+git checkout main
+then do,
+git merge feature/login
+(since, feature directory contains login)
+```
 
 Can you install and run the following library on your system? https://github.com/geelen/git-smart
 
