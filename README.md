@@ -42,6 +42,22 @@ What are some good branching conventions?
 
 What are some good commit message conventions?
 
+```
+Good Practices:
+Separate subject from body with a blank line
+Capitalize the subject line and each paragraph
+Use the imperative mood in the subject line
+Wrap lines at 72 characters
+Use the body to explain what and why you have done something.
+
+What commit message should contain:
+
+Describe why a change is being made.
+How does it address the issue?
+What effects does the patch have?
+Describe any limitations of the current code.
+```
+
 For bonus points create a github repo or a gist where you commit your answers to each question in a separate commit.
 
 
