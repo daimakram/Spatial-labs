@@ -3,7 +3,18 @@
 Can you create a fork of this `gist` and push it to your `gist`? `Yes`
 
 How would you make sure that your work doesn't conflict with someone else's code when working on the same project in a team?
+```
+First, checkout the branch you want to merge into using "git checkout".
+Then, use 
+git merge <branch to merge from>
 
+example, we want to merge " login" feature in main branch. 
+we will first checkout in main
+git checkout main
+then do,
+git merge feature/login
+(since, feature directory contains login)
+```
 Write the command for merging someone's code?
 
 Can you install and run the following library on your system? https://github.com/geelen/git-smart
