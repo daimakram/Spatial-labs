@@ -1,6 +1,6 @@
 # Git skills
 
-Can you create a fork of this `gist` and push it to your `gist`?
+Can you create a fork of this `gist` and push it to your `gist`? `Yes`
 
 How would you make sure that your work doesn't conflict with someone else's code when working on the same project in a team?
 
