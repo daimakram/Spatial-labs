@@ -32,6 +32,13 @@ git merge feature/login
 Can you install and run the following library on your system? https://github.com/geelen/git-smart `Yes`
 
 What are some good branching conventions?
+[GITFLOW](https://i.stack.imgur.com/tjJCt.png)
+```
+1. Use issue tracker IDs in branch names
+2. Add a short descriptor of the task
+3. Use hyphens as separators
+```
+
 
 What are some good commit message conventions?
 
