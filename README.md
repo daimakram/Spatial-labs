@@ -29,7 +29,7 @@ git merge feature/login
 (since, feature directory contains login)
 ```
 
-Can you install and run the following library on your system? https://github.com/geelen/git-smart
+Can you install and run the following library on your system? https://github.com/geelen/git-smart `Yes`
 
 What are some good branching conventions?
 
